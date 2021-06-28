@@ -1,4 +1,4 @@
-#Responsive Testimonials Slider using HTML,CSS and JAVASCRIPT | Modern Web 2021
+# Responsive Testimonials Slider using HTML,CSS and JAVASCRIPT | Modern Web 2021
 
 Make awesome fully responsive testimonails slider using HTML, CSS and JAVASCRIPT only. No other library. 
 
